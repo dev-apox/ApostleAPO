@@ -7,7 +7,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Denis</h1>
-<h3 align="center">To see my web projects visit my <a href="https://denisdev.altervista.org" text-decoration="none">WebSite</a></h3>
+<h3 align="center">To see my web projects visit my <a href="https://denisdev.online" text-decoration="none">WebSite</a></h3>
 
 <h3 align="left">🛠 Language and tools</h3>
 
